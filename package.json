@@ -1,5 +1,5 @@
 {
-  "name": "virtual-event-hub",
+  "name": "__PRODUCT_SLUG__",
   "version": "1.0.0",
   "private": true,
   "scripts": {
